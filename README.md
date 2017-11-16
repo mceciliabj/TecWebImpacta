@@ -1,2 +1,2 @@
 # tecwebimpacta
-Coisas para guardar de TecWeb
+Coisas de TecWeb
